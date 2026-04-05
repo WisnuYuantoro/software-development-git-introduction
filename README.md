@@ -1,17 +1,22 @@
-Judul repository                :Git Introduction
-Nama mata kuliah                :Software Development
-Nama mahasiswa                  :Wisnu Yuantoro
-NPM                             :2313020142
-Deskripsi singkat repository    :Repository ini dibuat sebagai tugas pengenalan Git dan GitHub
+# Git Introduction
 
-## Tujuan Repository
-Repository ini dibuat untuk memenuhi tugas mata kuliah Software Development terkait pengenalan Git dan GitHub
+Selamat datang di repository **Git Introduction**. Proyek ini disusun sebagai bagian dari pemenuhan tugas mata kuliah **Software Development**.
 
-## Tools yang digunakan
-- Git
-- GitHub
-- Visual Studio Code
+## Profil Mahasiswa
+- **Nama**          : Wisnu Yuantoro
+- **NPM**           : 2313020142
+- **Mata Kuliah**    : Software Development
 
-## Daftar File
-- README.md
-- perkenalan.md
+## Deskripsi Singkat
+Repository ini berfungsi sebagai sarana praktik pengenalan alur kerja (workflow) menggunakan **Git** sebagai *version control system* dan **GitHub** sebagai platform manajemen repositori daring.
+
+## Tujuan
+- Memenuhi tugas akademik mata kuliah Software Development.
+- Memahami perintah dasar Git (init, add, commit, push).
+- Mempelajari integrasi antara lokal environment dengan GitHub.
+
+## Teknologi & Tools
+Dalam pengerjaan tugas ini, tools yang digunakan meliputi:
+*   **Git**: Version Control System.
+*   **GitHub**: Hosting service untuk Git repositories.
+*   **Visual Studio Code**: Code Editor utama.
