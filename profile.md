@@ -1,11 +1,19 @@
 # Profil Mahasiswa
 
-**Nama Lengkap:** Wisnu Yuantoro
-**NPM:** 2313020142
+**Wisnu Yuantoro**  
+*NPM: 2313020142*
 
 ---
 
-### Informasi Tambahan
-* **Hobi:**Berenang
-* **Bahasa Pemrograman yang Ingin Dipelajari:** PHP dan JavaScript sama HTML dan CSS walaupun kedua bahasa tersebut bukan bahasa pemrograman tapi saya ingin mempelajarinya
-* **Target Karier di Bidang Teknologi:** Target saya cuma igin mengupgrade diri supanya bisa bikin kode yang ga cuma jalan, tapi juga efisien
+## Tentang Saya
+Saya adalah mahasiswa **Software Development** yang sedang mendalami dunia *web development*. Hobi saya adalah **berenang** 🏊.
+
+## Sedang Mempelajari
+- **Languages:** PHP & JavaScript
+- **Web Basics:** HTML & CSS
+> *Fokus saya saat ini adalah menguasai fundamental web secara menyeluruh.*
+
+## 🎯 Target & Harapan
+Meningkatkan kualitas diri untuk membuat kode yang tidak hanya **berjalan**, tapi juga **bersih dan efisien**.
+
+
